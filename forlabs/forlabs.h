@@ -1,0 +1,2 @@
+int prov();
+void hat();
